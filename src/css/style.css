@@ -1,4 +1,11 @@
 body {
     font-family: 'Oxanium', cursive;
-
+    background-color: #000;
+    color: #fff;
 }
+
+.cabecalho {
+    display: flex;
+    justify-content: center;
+}
+
