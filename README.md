@@ -5,7 +5,7 @@
   Matías Ezequiel Correa - Projeto "X-men"
 </h1>
 <p align="center">
-  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-xmen/" target="_blank">Projeto X-MEN | By Matías Correa,</a> sobre os personagens de X-MEN, feito com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
+  Este é um projeto pessoal <a href="https://matias-ezequiel-correa.github.io/projeto-xmen/" target="_blank">Projeto X-MEN | By Matías Correa,</a> sobre uma seleção de personagens X-MEN, feito com HTML, CSS e JavaScript, atualmente hospedado no <a href="https://github.com/matias-ezequiel-correa">GitHub-Pages</a>.
 </p>
 
 ## Desing: 
